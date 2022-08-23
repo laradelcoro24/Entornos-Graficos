@@ -1,0 +1,33 @@
+p{
+    color: red;
+}
+div p a:link{
+ color: black;
+}
+.ultimo ul li {
+    color: yellow ;
+}
+.ultimo ul li:link{
+    color: blue;
+}
+.importante * {
+    color: green;
+}
+.importante h1{
+    color:red;
+}
+
+h1[title]{
+    color: blue;
+}
+
+ol li a{
+    text-decoration: none;
+}
+ol li a:link{
+    color: blue;
+}
+ol li a:visited{
+    color: fuchsia;
+}
+
